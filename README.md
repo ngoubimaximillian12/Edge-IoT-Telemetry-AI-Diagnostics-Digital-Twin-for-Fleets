@@ -144,9 +144,7 @@ The Fleet Digital Twin Platform is an advanced web application designed for real
 
 ---
 
-## Screenshots
 
-> Add screenshots of your application here
 
 ---
 
